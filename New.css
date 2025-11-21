@@ -1,0 +1,51 @@
+﻿head2 {
+    color: #1E406E
+}
+
+.hero {
+    background-color: #DC3545 !important;
+    height: 60% !important
+}
+
+.head3 {
+    color: #162A42;
+}
+
+.para {
+    font-size: 21px
+}
+
+.bod {
+    border-color: #162A42 !important
+}
+
+#Button1 {
+    background-color: #162A42 !important;
+    border-radius: 7px;
+    border-color: #162A42 !important;
+    color: white;
+    font-weight: 700
+}
+
+.boka {
+    border: 0px !important
+}
+
+.head5 {
+    color: #7671ED;
+    font-size: 20px
+}
+
+.heading1 {
+    color: #DC3545;
+    font-size: 30px !important;
+}
+
+.para-1 {  
+    margin-left:10px !important;
+}
+
+.btn-1{
+    background-color:#ff0000 !important;
+    color:#ffffff !important;
+}

@@ -1,0 +1,127 @@
+﻿
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+}
+
+nav {
+    background-color: #11101d;
+    color: #ffd800;
+    min-height: 90px;
+}
+
+    nav .navbar-brand {
+        color: #ffd800;
+        font-size: 28px;
+        margin-right: 30px;
+        margin-left:-50px !important;
+    }
+
+
+    nav .nav-link {
+        color: #ffffff !important;
+        font-size: 15px !important;
+        padding: 10px 17px !important;
+        border: 1px solid #ffffff;
+        margin: 0 10px;
+        border-radius: 20px;
+    }
+
+
+        nav .nav-link:hover {
+            background-color: #ffffff;
+            color: #ff0000 !important;
+        }
+
+    nav .rt {
+        background-color: #ffd800;
+        color: #000;
+        padding: 7px 18px;
+        border-radius: 20px;
+        border: 1px solid #fff;
+    }
+
+    nav .linkbtn {
+        border: 1px solid white !important;
+        color: #ffffff !important;
+        font-size: 18px !important;
+        padding: 7px 17px !important;
+        margin: 0 10px;
+        border-radius: 20px;
+        position:relative;
+        top:3px;
+    }
+
+        nav .linkbtn:hover {
+            background-color: #ffffff;
+            color: #ff0000 !important;
+        }
+
+    nav .rt:hover {
+        background-color: transparent;
+        color: #fff;
+        border: 1px solid #fff;
+    }
+
+    nav .logbtn {
+        background-color: #ffd800 !important;
+        padding: 7px 30px;
+        border-radius: 20px;
+        border: 2px solid #fff;
+    }
+
+        nav .logbtn:hover {
+            background-color: transparent !important;
+            color: #fff;
+        }
+
+    nav .logbtn-1 {
+        display: none;
+        background-color: #ffd800 !important;
+        padding: 7px 30px;
+        border-radius: 20px;
+        border: 2px solid #fff;
+    }
+
+        nav .logbtn-1:hover {
+            background-color: transparent !important;
+            color: #fff !important;
+            border: 1px solid #fff;
+        }
+
+.Spacer10 {
+    margin-top: 10px;
+}
+
+.Spacer20 {
+    margin-top: 20px;
+}
+
+footer {
+    background-color: #11101d;
+    width: 100%;
+}
+
+
+    footer h6 {
+        color: #ffd800;
+        font-weight: 400 !important;
+    }
+
+    footer p {
+        color: #ffffff;
+        text-transform: capitalize;
+    }
+
+    footer a {
+        text-decoration: none;
+        text-transform: capitalize;
+    }
