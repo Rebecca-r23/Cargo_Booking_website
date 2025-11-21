@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CourierN", ".", "{CA0561FC-A066-4044-BF6A-7FF45D53286F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53393"
+		Debug.AspNetCompiler.PhysicalPath = "..\CourierN\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53393\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53393"
+		Release.AspNetCompiler.PhysicalPath = "..\CourierN\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53393\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53393"
+		SlnRelativePath = "..\CourierN\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA0561FC-A066-4044-BF6A-7FF45D53286F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA0561FC-A066-4044-BF6A-7FF45D53286F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {429A89A8-7DE6-4D88-9493-2BEA90DDB13F}
+	EndGlobalSection
+EndGlobal
