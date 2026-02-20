@@ -107,4 +107,4 @@ _Add screenshots of your homepage, booking page, and payment page here._
 
 ```bash
 Example:
-![Homepage](images/homepage.png) 
+![Homepage](./Screenshot 2026-02-19 130850.png)
